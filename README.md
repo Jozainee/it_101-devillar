@@ -2,6 +2,6 @@ this is github
 
 Hello World!
 
-Jozaine De Villr
+Jozaine De Villar
 
 Pasig Catholic Collage
